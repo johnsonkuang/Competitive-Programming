@@ -1,0 +1,1 @@
+{"name":"Local: baloni","url":"c:\\Users\\Johnson\\Desktop\\C++\\Kattis\\baloni.cpp","tests":[{"id":1600046197688,"input":"1\n1","output":"1"},{"id":1600046382439,"input":"3\n1 2 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Johnson\\Desktop\\C++\\Kattis\\baloni.cpp","group":"local","local":true}
